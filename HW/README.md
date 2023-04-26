@@ -1,4 +1,6 @@
 ### Домашние работы:
 1. HW_1:
- - [code](https://github.com/melondina/frontend/tree/main/HW/1)
+ - [index.html](https://github.com/melondina/frontend/tree/main/HW/1)
+2. HW_2:
+ - [index.html](https://github.com/melondina/frontend/blob/main/HW/2/index.html)
 
