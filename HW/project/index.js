@@ -56,6 +56,7 @@ async function getIp() {
 
   } catch(err){
     console.log("Error 404");
+    
   }
 }
 getIp();
